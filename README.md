@@ -6,13 +6,15 @@
 ### I am **Donald** from South Africa. I do mobile and web applications development, I really enjoy learning new tech , languages and frame works like react and react native. I also enjoy backend development but I also do UI, UX design and development. Please check out my on going e-learning project below called **Fundital** for both React Web App and Android.
 
 ## Skills and Experience:
- **Java**
- **JS** 
- **C#**
- **REACT**
- **HTML**
- **CSS**
- **NoSQL**
+ * **Java**
+ * **JS** 
+ * **C#**
+ * **REACT**
+ * **HTML**
+ * **CSS**
+ * **NoSQL**
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 - 🔭 I’m currently working on Fundital 
 - 🌱 I’m currently learning Kotlin / app encryption and security 
@@ -22,9 +24,11 @@
 - 📫 How to reach me: donaldlwandle@gmail.com and  the below socials 
 
 
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/donaldlwandle)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/donald-lwandle-ntuli/)  
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=donaldlwandle&show_icons=true&count_private=true) 
 
