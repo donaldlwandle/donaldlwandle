@@ -1,7 +1,7 @@
 
 
 # Hi there 👋, Welcome to my GitHub
-![](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60)
+![](https://images.unsplash.com/photo-1503252947848-7338d3f92f31?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80)
 
 ### I am **Donald** from South Africa. I do mobile and web applications development, I really enjoy learning new tech , languages and frame works like react and react native. I also enjoy backend development but I also do UI, UX design and development. Please check out my on going e-learning project below called **Fundital** for both React Web App and Android.
 
