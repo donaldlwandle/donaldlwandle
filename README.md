@@ -5,7 +5,14 @@
 
 ### I am **Donald** from South Africa. I do mobile and web applications development, I really enjoy learning new tech , languages and frame works like react and react native. I also enjoy backend development but I also do UI, UX design and development. Please check out my on going e-learning project below called **Fundital** for both React Web App and Android.
 
-Skills: Java /JS /C# / REACT/ HTML / CSS /NoSQL
+## Skills and Experience:
+ **Java**
+ **JS** 
+ **C#**
+ **REACT**
+ **HTML**
+ **CSS**
+ **NoSQL**
 
 - 🔭 I’m currently working on Fundital 
 - 🌱 I’m currently learning Kotlin / app encryption and security 
