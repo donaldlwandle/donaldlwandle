@@ -1,9 +1,9 @@
 
 
-### Hi there 👋, Welcome to my GitHub
+# Hi there 👋, Welcome to my GitHub
 ![](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60)
 
-I am **Donald** from South Africa. I do mobile and web applications development, I really enjoy learning new tech , languages and frame works like react and react native. I also enjoy backend development but I also do UI, UX design and development. Please check out my on going e-learning project below called **Fundital** for both React Web App and Android.
+### I am **Donald** from South Africa. I do mobile and web applications development, I really enjoy learning new tech , languages and frame works like react and react native. I also enjoy backend development but I also do UI, UX design and development. Please check out my on going e-learning project below called **Fundital** for both React Web App and Android.
 
 Skills: Java /JS /C# / REACT/ HTML / CSS /NoSQL
 
@@ -21,7 +21,7 @@ Skills: Java /JS /C# / REACT/ HTML / CSS /NoSQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=donaldlwandle&show_icons=true&count_private=true) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donaldlwandle)](https://github.com/anuraghazra/github-readme-stats)
+
 
  
 
