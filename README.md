@@ -32,7 +32,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=donaldlwandle&show_icons=true&theme=tokyonight) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donaldlwandle)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats&hide_progress=false)
 
 
 
