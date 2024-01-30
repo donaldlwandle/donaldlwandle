@@ -19,7 +19,10 @@
 <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-
+## Databases:
+<img align="left" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+<img  src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ## My Git Activity Stats:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=donaldlwandle&show_icons=true&theme=radical&hide_progress=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
