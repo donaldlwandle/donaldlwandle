@@ -1,7 +1,8 @@
 
 
 # Hi there 👋, Welcome to my GitHub
-![](https://images.unsplash.com/photo-1503252947848-7338d3f92f31?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80)
+<img align="left" width="100%" src="https://www.canva.com/design/DAF7WlJJnts/mAXI4lm9c3fbr1j0Iba7_A/view?utm_content=DAF7WlJJnts&utm_campaign=designshare&utm_medium=link&utm_source=editor"/>
+<br/>
 
 ### I am **Donald** from South Africa. I do mobile and web applications development, I really enjoy learning new tech , languages and frame works like react and react native. I also enjoy backend development but I also do UI, UX design and development. Please check out my on going e-learning project below called **Fundital** for both React Web App and Android.
 
@@ -23,7 +24,7 @@
 - 💬 Ask me about anything 
 - 📫 How to reach me: donaldlwandle@gmail.com and  the below socials 
 
-
+<br/>
 <a href="https://github.com/donaldlwandle">
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='60'>
 </a>
@@ -31,10 +32,11 @@
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='60'>
 </a>
 
-
+<br/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=donaldlwandle&show_icons=true&theme=radical&hide_progress=false"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donaldlwandle&layout=donut-vertical&hide_progress=false"/>
-<img align="left" width="47%" src=""/>
+<img align="left"  src=""/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=donaldlwandle"/>
 
 
 
