@@ -24,15 +24,18 @@
 - 📫 How to reach me: donaldlwandle@gmail.com and  the below socials 
 
 
+<a href="https://github.com/donaldlwandle">
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='60'>
+</a>
+<a href="https://www.linkedin.com/in/donaldlwandle">
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='60'>
+</a>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/donaldlwandle)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/donald-lwandle-ntuli/)  
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=donaldlwandle&show_icons=true&theme=radical&hide_progress=false"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donaldlwandle&layout=donut-vertical&hide_progress=false"/>
+<img align="left" width="47%" src=""/>
 
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=donaldlwandle&show_icons=true&theme=radical) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donaldlwandle&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats&hide_progress=false)
 
 
 
