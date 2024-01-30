@@ -30,9 +30,9 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=donaldlwandle&show_icons=true&theme=tokyonight) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=donaldlwandle&show_icons=true&theme=radical) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats&hide_progress=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andonaldlwandle&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats&hide_progress=false)
 
 
 
