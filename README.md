@@ -26,26 +26,25 @@
 
 ## My Git Activity Stats:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=donaldlwandle&show_icons=true&theme=radical&hide_progress=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donaldlwandle&layout=donut-vertical&hide_progress=false"/>
+<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donaldlwandle&layout=donut-vertical&hide_progress=false"/>
 
 
-
-<a  href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-- 🔭 I’m currently working on Fundital 
-- 🌱 I’m currently learning Kotlin / app encryption and security 
-- 👯 I’m looking to collaborate on cool stuff that will change the world 
-- 🤔 I’m looking for help with Mastercard payment gate architecture and development. 
-- 💬 Ask me about anything 
-- 📫 How to reach me: donaldlwandle@gmail.com and  the below socials
-
+## currently learning:
+<ol type="1">
+  <li><b> Cloud computing and cloud services with Google cloud services and Firebase, AWS, Microsoft Azure and 
+   Oracle Cloud Infrastructure (OCI).</b></li>
+  <li><b>REST API and Web services (Android and Web applications).</b></li>
+  <li><b>local database caching with SQLite (Android and Web applications).</b></li>
+</ol>
 
 ## My Socials:
 <a href="https://github.com/donaldlwandle">
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='60'>
+  <span>Github</span>
 </a>
 <a href="https://www.linkedin.com/in/donaldlwandle">
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='60'>
+  <span>Linkedin</span>
 </a>
 
 
