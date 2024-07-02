@@ -1,7 +1,8 @@
 
 
 # Hi there 👋, Welcome to my GitHub
-<img  width="100%"  src="https://drive.google.com/thumbnail?id=19mtGLcecLVvmRtbzuOr4tIeNTL8GAsWj&sz=w1000" />
+<img  width="100%"  src="https://drive.google.com/thumbnail?id=1uS0T_5CKuGkE2qtbhkc5JnuX71isCExV&sz=w1000" />
+
 
 #### I am **Donald** from South Africa. I am a passionate and dedicated software developer with a strong interest in leveraging technology to create innovative solutions. I have a 5-year self taught background in software development, during which I have gained experience in Java , C# , Matlab , JavaScript , Kotlin ,SQL, Android app development , Windows app development, Firebase , Google cloud services, React Web app development and MVVM( Clean- Architecture) applications development. <br/> <br/> I am highly motivated by the opportunity to tackle complex problems and find elegant solutions through coding. I enjoy the process of transforming ideas into tangible software applications that have a positive impact on users. I believe in the power of simplicity, clean code, and user-centric design principles to create intuitive and seamless user experiences.<br/> <br/>Throughout my self paced learning , I have had the opportunity to thoroughly learn how to build professional and efficient diverse projects, for various devices and environments.<br/> <br/>Apart from technical skills, I am a lifelong learner who actively seeks opportunities to expand my knowledge and stay updated with the latest trends and advancements in software development. I value continuous improvement and embrace new challenges as opportunities for personal and professional growth.<br/> <br/>In addition to my technical expertise, I possess strong communication and interpersonal skills, which allow me to effectively collaborate with team members during school projects and assignments, understand requirements, and deliver solutions that meet or exceed expectations.
 
