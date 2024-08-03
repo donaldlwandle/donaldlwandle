@@ -13,8 +13,9 @@
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
 
 ## My Git Activity Stats (NB!! refresh the whole page to load):
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=donaldlwandle&show_icons=true&theme=radical&hide_progress=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
 <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donaldlwandle&layout=donut-vertical&hide_progress=false"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=donaldlwandle&show_icons=true&theme=radical&hide_progress=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+
 
 ## Frameworks:
 <img align="left" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
