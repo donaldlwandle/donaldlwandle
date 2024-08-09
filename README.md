@@ -6,13 +6,16 @@
 
 #### I am a passionate and dedicated software developer with a 5-year background in self-taught software development.<br/> <br/>
 
-My journey has led me to explore various technologies, including Version Control (Git), programming languages (Java, C#, etc.), and frameworks (Firebase, React) for developing mobile (Android), desktop (Windows), and web applications. I am also familiar with clean coding design philosophies like Clean Architecture, MVVM (Model-View-ViewModel), MVI (Model-View-Intent), and Dependency Injection.<br/> <br/>
+#### My journey has led me to explore various technologies, including Version Control (Git), programming languages (Java, C#, etc.), and frameworks (Firebase, React) for developing mobile (Android), desktop (Windows), and web applications. I am also familiar with clean coding design philosophies like Clean Architecture, MVVM (Model-View-ViewModel), MVI (Model-View-Intent), and Dependency Injection.<br/> <br/>
 
-Currently, I’m a software engineer in training for  the development and deployment of mobile and web applications. I’m diving into  exciting technologies:<br/> <br/>
+#### Currently, I’m a software engineer in training for  the development and deployment of mobile and web applications. I’m diving into  exciting technologies:<br/> <br/>
 
-•Software engineering: Docker, Kubernetes and Terraform.
-•Cloud Computing: Exploring Google Cloud Services,  and AWS.
-•REST APIs and Web Services: Building https connections for Android and web applications.
+#### <ul>
+  #### <li>Software engineering: Docker, Kubernetes and Terraform.</li>
+  #### <li>Cloud Computing: Exploring Google Cloud Services,  and AWS.</li>
+  #### <li>REST APIs and Web Services: Building https connections for Android and web applications.</li>
+ 
+#### </ul>
  
 
 ## Programming languages:
