@@ -1,6 +1,6 @@
 
 
-# Hi there 👋, Welcome to my GitHub
+#  Welcome to my GitHub
 <img  width="100%"  src="https://drive.google.com/thumbnail?id=1uS0T_5CKuGkE2qtbhkc5JnuX71isCExV&sz=w1000" />
 
 #### I am a passionate and dedicated software developer with a 5-year background in self-taught software development. My journey has led me to explore various technologies, including Version Control (Git), programming languages (Java, C#, etc.), and frameworks (Firebase, React) for developing mobile (Android), desktop (Windows), and web applications. I am also familiar with clean coding design philosophies like Clean Architecture, MVVM (Model-View-ViewModel), MVI (Model-View-Intent), and Dependency Injection.<br/> <br/>
