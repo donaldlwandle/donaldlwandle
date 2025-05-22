@@ -27,7 +27,7 @@
 
 ## 📊 GitHub Activity Dashboard
 
-![GitHub Metrics](https://github.com/donaldlwandle/donaldlwandle/blob/main/metrics.svg)
+![GitHub Metrics](https://github.com/donaldlwandle/donaldlwandle/blob/main/github-metrics.svg)
 
 
 
