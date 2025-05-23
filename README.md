@@ -3,14 +3,14 @@
 #  Welcome to my GitHub
 <img  width="100%"  src="https://drive.google.com/thumbnail?id=1uS0T_5CKuGkE2qtbhkc5JnuX71isCExV&sz=w1000" />
 
-#### I am a passionate and dedicated software developer with a 5-year background in self-taught software development. My journey has led me to explore various technologies, including Version Control (Git), programming languages (Java, C#, etc.), and frameworks (Firebase, React) for developing mobile (Android), desktop (Windows), and web applications. I am also familiar with clean coding design philosophies like Clean Architecture, MVVM (Model-View-ViewModel), MVI (Model-View-Intent), and Dependency Injection.<br/> <br/>
+#### Passionate and dedicated software developer and systems engineer with a 5-year background in self-taught systems infrastructure, software development and deployment. My journey has led me to explore various technologies, including Version Control (Git), programming languages (Java, C#, etc.), front-end and back-end frameworks (Firebase, React, etc.) for developing mobile (Android), desktop (Windows), and web applications. I am also familiar with clean coding design philosophies such as Clean Architecture, MVVM (Model-View-ViewModel), MVI (Model-View-Intent), and Dependency Injection, as well as cloud engineering philosophies such as Infastructure as a Service, Microservices Architecture, Containerization of Workload, Container Orchestration and Load Balancing.
 
-#### Currently, I’m diving into the engineering, development and deployment of mobile, desktop and web applications:<br/> <br/>
+#### Currently, I’m practicing the engineering, development and deployment of mobile, desktop, cloud-native and web applications and management of cloud compute services, platforms and Infrastructure::<br/> <br/>
 
 #### <ul>
-  #### <li>Software engineering: Docker, Kubernetes and Terraform.</li>
+  #### <li>Software Platform engineering: Microservices Architectures, Workload Containerization, Container Orcheatration, Docker, Kubernetes and Terraform..</li>
   #### <li>Cloud Computing: Exploring Google Cloud Services,  and AWS.</li>
-  #### <li>REST APIs and Web Services: Building https connections for Android and web applications.</li>
+  #### <li>REST APIs and Web Services: Building secure https connections for mobile-native, web and cloud-native applications.</li>
  
 #### </ul>
  
